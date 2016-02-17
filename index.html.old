@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8" />
+	<title>Patricia Coutiño</title>
+	<link rel="stylesheet" type="text/css" href="paty.css">
+	<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+<div id="all">
+	<div id="titlebar" >
+		<h1>Patricia Coutiño</h1>
+		<div id="menu">
+			<li><a href="#home">Home</a></li>
+			<li><a href="#bio">Bio</a></li>
+			<li><a href="#resume">Resume</a></li>
+			<li><a href="#album">Album</a></li>
+			<li><a href="#contact">Contact</a></li>
+		</div>
+	</div>
+	<a name="bio">	
+	<div id="main" >
+		<div id="bio" class="center">
+		<br><br>
+		<p>"Patricia Coutiño was born in San Luis Potosí, México. She started her acting experience joining different school productions. At the age of 18 while studying Industrial Design at the Autonomus University of San Luis Potosí (the largest University in the state of SLP) she signed up in the Two Year Acting Conservatory at the CEART (Centro de las Artes de San Luis Potosí) during this time she was part of several plays one of them being OC YE NECHCA by Jaime Chabaud. <br><br>Looking for the development of more acting skills she joined several acting workshops. One year later she left Mexico and moved to Los Angeles and enrolled in the Two Year Acting Program at The Stella Adler Academy of Acting and Theatre searching for the improvement and perfection of her craft. <br><br>Since she arrived to Los Angeles she has participated in short films and commercials, as well as different plays in Hollywood such as SLAVS! directed by Bonnie McNeil where she played Aleksii Antediluvianovich Prelapsarianov, RAVENSCROFT directed my May Quingley Goodman as the role of Gillian Ravenscroft, WAITING FOR LEFTY directed by Academy Award winner Milton Justice, as the role of Dr. Benjamin."</p>
+		<br><br>
+
+
+
+
+	<p>Discipline, love, constant practice, respect are the main things that she applies in her work. </p>
+
+
+		</div>
+	<a name="resume">	
+		<div id="resume" >
+			<h2>THEATRE/STAGE</h2>
+			
+			<table class="tableCenter">
+				<tr>
+					<td>Mujeres Asesinas</td>
+					<td>La mataviejitas</td>
+					<td>Centro Cultural Univeritario/ Martín Farfan. Mexico</td>
+				</tr>
+				<tr>
+					<td>Siempre tendremos a París</td>
+					<td>Vero the air hostess</td>
+				</tr>
+				<tr>
+					<td>Último tren a Georgia</td>
+					<td>Dr. Samantha Heighs</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Melinieves y los siete enanos</td>
+					<td>Emo Girl</td>
+					<td>ITESM/ Adriana Bandin. Mexico </td>
+				</tr>
+				<tr>
+					<td>Te juro Juana que tengo ganas</td>
+					<td>Inesita Mercado</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Oc Ye Nechca</td>
+					<td>Inmigrant/Officer/Grandmother</td>
+					<td>Centro de las Artes San Luis Potosí Centenario/Lizandro Cisneros. Mexico</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Waiting for Lefty</td>
+					<td>Dr. Benjamin</td>
+					<td>Stella Adler, Los Angeles/ Academy Award winner Milton Justice. Usa</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Summer and Smoke</td>
+					<td>Alma</td>
+					<td>Studio C, Stella Adler LA/Christopher Thorton</td>
+				</tr>
+				<tr>
+					<td>Proof</td>
+					<td>Claire</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Frankie and Johny and the Claire the Lune</td>
+					<td>Frankie</td>
+					<td>Studio C, Stella Adler LA/Tim McNeil</td>
+				</tr>
+				<tr>
+					<td>In the Next Room (The Vibrator Play)</td>
+					<td>Sabrina Daldry</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Ravenscroft</td>
+					<td>Gillian Ravenscroft</td>
+					<td>Stella Adler LA/ May Quigley</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Medio Pollito</td>
+					<td>Mean Chick</td>
+					<td>San Pedro Elementary School/ Morayo Orija</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Slavs!</td>
+					<td>Second Babushka, Prelapsarianov</td>
+					<td>Gilbert Theatre/ Bonnie Mcneil</td>
+				</tr>
+				<tr>
+					<td>Ah, Wilderness</td>
+					<td>Tommy</td>
+				</tr>
+			</table>
+			
+			<h2>FILM/TELEVISION</h2>
+			<table class="tableCenter">
+				<tr>
+					<td>The Incision</td>
+					<td>Party Guest</td>
+					<td>Tekin Girgin</td>
+				</tr>
+				<tr>
+					<td>Justice</td>
+					<td></td>
+					<td>Michael Swinehart</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Grant Central USA Commercial</td>
+					<td>Grant Writer</td>
+					<td>Rodney Walker</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>"Pana Short" Panavision Commercial</td>
+					<td>UMG Inc.</td>
+					<td>Danny Beauviour</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>"The Invitation" Lipton Tea Commercial</td>
+					<td>SMASH Productions</td>
+					<td>Angela Trevino</td>
+				</tr>
+			</table>
+			<h2>TRAINING</h2>
+			<table class="tableCenter">
+				<tr>
+					<td>Centro Cultutal Universitario de San Luis Potosí</td>
+					<td>One and a half year of acting and training with the University Company "Prometeo"</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>Centro de las Artes San Luis Potosí Centenario</td>
+					<td>"Jovénes a Escena". One year conservatory</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td>The Stella Adler Academy of Acting and Theatre</td>
+					<td>Two year conservatory</td>
+				</tr>
+			</table>
+			<br><br>
+		</div>
+		<a name="album">	
+		<div id="album" >
+			<div id="images" class="center">
+				<div class="foto left">
+					<img src="images/1.jpg" class="thirty" />
+					<div class="clear"></div>
+					<img src="images/11.jpg" class="forty"/>
+					
+					<img src="images/5.jpg" class="thirty"/>
+					<div class="clear"></div>
+					<img src="images/6.jpg" class="thirty"/>
+					<img src="images/12.jpg" class="fifty"/>
+				</div>
+				<div class="foto left">
+					<img src="images/2.jpg" class="fifty"/>
+					<div class="clear"></div>
+					<img src="images/3.jpg" class="twenty-four"/>
+					<img src="images/4.jpg" class="twenty-four"/>
+					<div class="clear"></div>
+					<img src="images/PatriciaCoutino-small.jpg" class="forty"/>
+					<img src="images/14.jpg" class="forty"/>
+					<img src="images/acting1.jpg" class="forty"/>
+					
+
+				</div>
+				<div class="foto left">
+					<img src="images/PatriciaCoutino1.jpg" class="forty"/>
+					<img src="images/8.jpg" class="thirty"/>
+					<img src="images/9.jpg" class="thirty"/>
+					<img src="images/10.jpg" class="thirty"/>
+					<img src="images/13.jpg" class="thirty"/>
+					<img src="images/7.jpg" class="forty"/>
+				</div>
+
+				
+		</div>
+		<div class="clear"></div>
+		<a name="contact">	
+		<div class="contact">
+			<div class="inner">
+			<br>
+			<p>7200 Hollywood Blvd. Apt 227.</p>
+			<p>Los Angeles. CA. 90064</p>
+			<p>M: (323) 684-1258</p>
+			<p>p.coutino@gmail.com</p>
+			<br>
+			</div>
+		</div>
+ 
+	</div> <!-- main -->
+
+</div> <!-- all -->
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="paty.js"></script>
+</body>
+</html>
