@@ -1,0 +1,43 @@
+/*	FLEXIE FRAMEWORK	*/
+/*	PABLO E. LUJAMBIO 	*/
+/*  WIDTH HELPERS 		*/
+
+.w-100 { width:100%;}
+.w-75  { width:75%; }
+.w-50  { width:50%; }
+.w-25  { width:25%; }
+
+.w-xxxl { width: -webkit-calc(24px * 6)		; width: calc(24px * 6)		; 	}
+.w-xxl  { width: -webkit-calc(24px * 4)		; width: calc(24px * 4)		; 	} 
+.w-xl   { width: -webkit-calc(24px * 3)		; width: calc(24px * 3)		; 	} 
+.w-l    { width: -webkit-calc(24px * 2)		; width: calc(24px * 2)		; 	} 
+.w-m    { width: -webkit-calc(24px * 1.5)	; width: calc(24px * 1.5)	; 	} 
+.w-s    { width: -webkit-calc(24px * 1)		; width: calc(24px * 1)		; 	} 
+.w-xs   { width: -webkit-calc(24px * .75)	; width: calc(24px * .75)	; 	}	 
+.w-xxs  { width: -webkit-calc(24px * .5)	; width: calc(24px * .5)	;  	} 
+.w-xxxs { width: -webkit-calc(24px * .25)	; width: calc(24px * .25)	; 	} 
+.w-n    { width: -webkit-calc(24px * 0)		; width: calc(24px * 0)		;   } 
+
+@media screen and (max-width:1024px){
+	.w-xxxl { width: -webkit-calc(18px * 6)		; width: calc(18px * 6)		; 	}
+	.w-xxl  { width: -webkit-calc(18px * 4)		; width: calc(18px * 4)		; 	} 
+	.w-xl   { width: -webkit-calc(18px * 3)		; width: calc(18px * 3)		; 	} 
+	.w-l    { width: -webkit-calc(18px * 2)		; width: calc(18px * 2)		; 	} 
+	.w-m    { width: -webkit-calc(18px * 1.5)	; width: calc(18px * 1.5)	; 	} 
+	.w-s    { width: -webkit-calc(18px * 1)		; width: calc(18px * 1)		; 	} 
+	.w-xs   { width: -webkit-calc(18px * .75)	; width: calc(18px * .75)	; 	}	 
+	.w-xxs  { width: -webkit-calc(18px * .5)	; width: calc(18px * .5)	;  	} 
+	.w-xxxs { width: -webkit-calc(18px * .25)	; width: calc(18px * .25)	; 	} 
+}
+@media screen and (max-width:640px){
+	.w-xxxl { width: -webkit-calc(14px * 6)		; width: calc(14px * 6)		; 	}
+	.w-xxl  { width: -webkit-calc(14px * 4)		; width: calc(14px * 4)		; 	} 
+	.w-xl   { width: -webkit-calc(14px * 3)		; width: calc(14px * 3)		; 	} 
+	.w-l    { width: -webkit-calc(14px * 2)		; width: calc(14px * 2)		; 	} 
+	.w-m    { width: -webkit-calc(14px * 1.5)	; width: calc(14px * 1.5)	; 	} 
+	.w-s    { width: -webkit-calc(14px * 1)		; width: calc(14px * 1)		; 	} 
+	.w-xs   { width: -webkit-calc(14px * .75)	; width: calc(14px * .75)	; 	}	 
+	.w-xxs  { width: -webkit-calc(14px * .5)	; width: calc(14px * .5)	;  	} 
+	.w-xxxs { width: -webkit-calc(14px * .25)	; width: calc(14px * .25)	; 	} 
+}
+/*# sourceMappingURL=maps/width-helpers.css.map */

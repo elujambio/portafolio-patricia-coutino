@@ -1,0 +1,49 @@
+/*	FLEXIE FRAMEWORK			*/
+/*	PABLO E. LUJAMBIO 			*/
+/*  VERTICAL GRID SYSTEM 	 	*/
+	.v-l-12{ height: 100%		;}
+	.v-l-11{ height: 91.66%		;}
+	.v-l-10{ height: 83.33%		;}
+	.v-l-9 { height: 75%		;}
+	.v-l-8 { height: 66.66%		;}
+	.v-l-7 { height: 58.33%		;}
+	.v-l-6 { height: 50%		;}
+	.v-l-5 { height: 41.66%		;}
+	.v-l-4 { height: 33.33%		;}
+	.v-l-3 { height: 25%		;}
+	.v-l-2 { height: 16.67%		;}
+	.v-l-1 { height: 8.33%		;}
+	.v-l-0 { height: 0%			;}
+	
+@media screen and (max-width:1024px){
+	.v-m-12{ height: 100%		;}
+	.v-m-11{ height: 91.66%		;}
+	.v-m-10{ height: 83.33%		;}
+	.v-m-9 { height: 75%		;}
+	.v-m-8 { height: 66.66%		;}
+	.v-m-7 { height: 58.33%		;}
+	.v-m-6 { height: 50%		;}
+	.v-m-5 { height: 41.66%		;}
+	.v-m-4 { height: 33.33%		;}
+	.v-m-3 { height: 25%		;}
+	.v-m-2 { height: 16.67%		;}
+	.v-m-1 { height: 8.33%		;}
+	.v-m-0 { height: 0%			;}
+}
+
+@media screen and (max-width:640px){
+	.v-s-12{ height: 100%		;}
+	.v-s-11{ height: 91.66%		;}
+	.v-s-10{ height: 83.33%		;}
+	.v-s-9 { height: 75%		;}
+	.v-s-8 { height: 66.66%		;}
+	.v-s-7 { height: 58.33%		;}
+	.v-s-6 { height: 50%		;}
+	.v-s-5 { height: 41.66%		;}
+	.v-s-4 { height: 33.33%		;}
+	.v-s-3 { height: 25%		;}
+	.v-s-2 { height: 16.67%		;}
+	.v-s-1 { height: 8.33%		;}
+	.v-s-0 { height: 0%			;}
+}
+/*# sourceMappingURL=maps/flexbox-vertical-grids.css.map */

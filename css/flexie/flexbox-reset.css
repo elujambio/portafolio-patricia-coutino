@@ -1,0 +1,102 @@
+/*	FLEXIE FRAMEWORK	*/
+/*	PABLO E. LUJAMBIO 	*/
+/*  RESET 				*/
+/* This part resets several stylesheet characteristics that are practical to reset. */
+
+*{
+	margin:0 0;
+	padding:0 0;
+	text-decoration:none;
+	font-weight:normal;
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+	        box-sizing:border-box;
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    border-spacing: 0;
+    font-weight: normal;
+    text-decoration: none;
+    text-indent: 0;
+    overflow:none;
+
+/*   Next chunk animates most stuff on resize. Exceptional for responsiveness. */
+
+    -webkit-transition: font-size .2s ease;
+
+         -o-transition: font-size .2s ease;
+
+            transition: font-size .2s ease;
+    -webkit-transition: height .2s ease;
+         -o-transition: height .2s ease;
+            transition: height .2s ease;
+    -webkit-transition: top .5 ease;
+         -o-transition: top .5 ease;
+            transition: top .5 ease;
+    -webkit-transition: all ease;
+         -o-transition: all ease;
+            transition: all ease;
+}
+
+section{
+
+	display:block;
+
+}
+a{
+	color:#FAFAFA;
+}
+html,
+body{
+}
+
+title, script{
+	display:none;
+}
+span{
+	margin:0;
+	padding:0;
+}
+/* INPUT FORMS RESET */
+textarea, 
+select, 
+input[type="date"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="email"], 
+input[type="month"], 
+input[type="number"], 
+input[type="password"], 
+input[type="search"], 
+input[type="tel"], 
+input[type="text"], 
+input[type="time"], 
+input[type="url"], 
+input[type="week"]{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	background-clip:padding-box;
+	-webkit-border-radius:0;
+	        border-radius:0;
+	background-color:none;
+	color:none;
+	outline:0;
+	margin:none;
+	padding:none;
+	text-align: left;
+	font-size:1em;
+	height: auto;
+	vertical-align: middle;
+	border-width:none;
+	font-family:'Sans-Serif';
+}
+
+/*		FONT-SIZES 		*/
+	h1{ font-size:72px; }
+	h2{ font-size:56px; }
+	h3{ font-size:48px; }
+	h4{ font-size:36px; }
+	h5{ font-size:24px; }
+	h6{ font-size:18px; }
+	p { font-size:21px; }
+/*# sourceMappingURL=maps/flexbox-reset.css.map */

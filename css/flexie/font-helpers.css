@@ -1,0 +1,128 @@
+/*	FLEXIE FRAMEWORK	*/
+/*	PABLO E. LUJAMBIO 	*/
+/*  FONT-HELPERS 		*/
+
+h1 	 	{ font-size:112px; 	}
+h2 	 	{ font-size:56px; 	}
+h3 	 	{ font-size:45px; 	}
+h4 	 	{ font-size:34px; 	}
+h5 	 	{ font-size:24px; 	}
+h6 	 	{ font-size:20px; 	}
+body 	{ font-size:18px;	}
+p 	 	{ font-size:18px;	}
+label 	{ font-size:14px;	}
+input 	{ font-size:18px; 	}
+
+/* FONT-HINT HELPERS */
+h1  	{ opacity:.98;		}
+h2  	{ opacity:.98;		}
+h3  	{ opacity:.98;		}
+h4  	{ opacity:.98;		}
+label 	{ opacity:.54;		}
+
+.display-4	{ font-size:112px;}
+.display-3-5{ font-size:72px; }
+.display-3	{ font-size:56px; }
+.display-2	{ font-size:45px; }
+.display-1	{ font-size:34px; }
+.headline	{ font-size:24px; }
+.title		{ font-size:20px; }
+.subheading	{ font-size:16px; }
+.body		{ font-size:16px; }
+.body-2		{ font-size:14px; }
+.caption	{ font-size:12px; }
+.button		{ font-size:16px; }
+
+@media screen and (max-width:1024px){
+	h1 	 	{ font-size:96px; 	}
+	h2 	 	{ font-size:56px; 	}
+	h3 	 	{ font-size:45px; 	}
+	h4 	 	{ font-size:34px; 	}
+	h5 	 	{ font-size:24px; 	}
+	h6 	 	{ font-size:20px; 	}
+	body 	{ font-size:18px;	}
+	p 	 	{ font-size:18px;	}
+	label 	{ font-size:14px;	}
+	input 	{ font-size:18px; 	}
+	/* FONT-HINT HELPERS */
+	h1  	{ opacity:.98;		}
+	h2  	{ opacity:.98;		}
+	h3  	{ opacity:.98;		}
+	h4  	{ opacity:.98;		}
+	label 	{ opacity:.54;		}
+
+	.display-4	{ font-size:96px;}
+	.display-3-5{ font-size:72px; }
+	.display-3	{ font-size:56px; }
+	.display-2	{ font-size:45px; }
+	.display-1	{ font-size:34px; }
+	.headline	{ font-size:24px; }
+	.title		{ font-size:20px; }
+	.subheading	{ font-size:16px; }
+	.body		{ font-size:16px; }
+	.body-2		{ font-size:14px; }
+	.caption	{ font-size:12px; }
+	.button		{ font-size:16px; }	
+}
+@media screen and (max-width:640px){
+	h1 	 	{ font-size:72px; 	}
+	h2 	 	{ font-size:48px; 	}
+	h3 	 	{ font-size:34px; 	}
+	h4 	 	{ font-size:34px; 	}
+	h5 	 	{ font-size:24px; 	}
+	h6 	 	{ font-size:20px; 	}
+	body 	{ font-size:18px;	}
+	p 	 	{ font-size:18px;	}
+	label 	{ font-size:14px;	}
+	input 	{ font-size:18px; 	}
+	/* FONT-HINT HELPERS */
+	h1  	{ opacity:.98;		}
+	h2  	{ opacity:.98;		}
+	h3  	{ opacity:.98;		}
+	h4  	{ opacity:.98;		}
+	label 	{ opacity:.54;		}
+
+	.display-4	{ font-size:72px;}
+	.display-3-5{ font-size:56px; }
+	.display-3	{ font-size:45px; }
+	.display-2	{ font-size:34px; }
+	.display-1	{ font-size:34px; }
+	.headline	{ font-size:24px; }
+	.title		{ font-size:20px; }
+	.subheading	{ font-size:16px; }
+	.body		{ font-size:16px; }
+	.body-2		{ font-size:14px; }
+	.caption	{ font-size:12px; }
+	.button		{ font-size:16px; }	
+}
+@media screen and (max-width:380px){
+	h1 	 	{ font-size:56px; 	}
+	h2 	 	{ font-size:48px; 	}
+	h3 	 	{ font-size:34px; 	}
+	h4 	 	{ font-size:34px; 	}
+	h5 	 	{ font-size:24px; 	}
+	h6 	 	{ font-size:20px; 	}
+	body 	{ font-size:18px;	}
+	p 	 	{ font-size:18px;	}
+	label 	{ font-size:14px;	}
+	input 	{ font-size:18px; 	}
+	/* FONT-HINT HELPERS */
+	h1  	{ opacity:.98;		}
+	h2  	{ opacity:.98;		}
+	h3  	{ opacity:.98;		}
+	h4  	{ opacity:.98;		}
+	label 	{ opacity:.54;		}
+
+	.display-4	{ font-size:56px;}
+	.display-3-5{ font-size:48px; }
+	.display-3	{ font-size:45px; }
+	.display-2	{ font-size:34px; }
+	.display-1	{ font-size:34px; }
+	.headline	{ font-size:24px; }
+	.title		{ font-size:20px; }
+	.subheading	{ font-size:16px; }
+	.body		{ font-size:16px; }
+	.body-2		{ font-size:14px; }
+	.caption	{ font-size:12px; }
+	.button		{ font-size:16px; }	
+}
