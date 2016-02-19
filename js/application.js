@@ -103,3 +103,14 @@ $(window).load(
 $(window).load(
 	setTimeout( fadeDeco, 4500)
 );
+$(".image-container").click(
+	function (){
+		$("#fullscreen-image").attr("src", $(this).find('img').attr("src"));
+		$("#fullscreen-image-background").css({"opacity": "1", "pointer-events": "all"});
+	}
+);
+$("#fullscreen-image-background").click(
+	function () {
+		$("#fullscreen-image-background").css({"opacity": "0", "pointer-events": "none"});
+	}
+);
